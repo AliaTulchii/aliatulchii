@@ -1,8 +1,6 @@
-
-
-
 <div align="center">
-  ![Header](https://tenor.com/embed.js)
+  
+![Header](https://github.com/AliaTulchii/aliatulchii/blob/main/assets/tumblr_n3eycguTcI1s66zfno4_250.webp)
 </div>
 
 ###
@@ -53,3 +51,4 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+Follow me
