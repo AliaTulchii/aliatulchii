@@ -1,5 +1,4 @@
-Header
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Header](https://tenor.com/embed.js)
 
 
 About me
