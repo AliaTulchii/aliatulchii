@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://github.com/AliaTulchii/aliatulchii/blob/main/assets/tumblr_n3eycguTcI1s66zfno4_250.webp)
+![Header](https://github.com/AliaTulchii/aliatulchii/blob/main/assets/stalking-lucy.gif)
 </div>
 
 ###
