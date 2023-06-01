@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm beginner Fullstack Developer from Ukraine<br><br><br>- 📚 I'm currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript, React, Redux Toolkit.<br>- ⚡ In my free time I am practicing my coding skills and learning new information programming</p>
+<p align="left">I'm beginner Fullstack Developer from Ukraine<br><br><br>- 📚 I'm currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript, React, Redux Toolkit.<br>- ⚡ In my free time I am practicing my coding skills and learning new information about programming</p>
 
 ###
 
